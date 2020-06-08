@@ -78,3 +78,7 @@ body {
     margin-left: 30px;
     margin-top: 20px;
   }
+
+  #currentDay {
+    font-size: xx-large;
+  }
